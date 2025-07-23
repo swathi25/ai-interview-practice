@@ -8,6 +8,6 @@ export const generateQuestions = async (role: string): Promise<string[]> => {
   ];
 };
 
-export const evaluateAnswer = async (answer: string): Promise<string> => {
+export const evaluateAnswer = async (_answer: string): Promise<string> => {
   return `Thank you for your answer. You provided a good overview, but consider being more specific with examples or tools you used.`;
 };
