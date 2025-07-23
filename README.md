@@ -1,6 +1,6 @@
  AI Interview Practice App
 
-An interactive web application that helps users prepare for technical interviews by simulating Q&A sessions with AI. Built with **React**, **TypeScript**, and **Material UI** — and perfect for showcasing frontend skills in your portfolio!
+An interactive web application that helps users prepare for technical interviews by simulating Q&A sessions with AI. Built with **React**, **TypeScript**, and **Material UI** .
 
 ---
 
